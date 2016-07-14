@@ -3,6 +3,7 @@ layout: page
 title: The Unix Shell
 subtitle: Finding Things
 minutes: 15
+comment: Something
 ---
 > ## Learning Objectives {.objectives}
 >
